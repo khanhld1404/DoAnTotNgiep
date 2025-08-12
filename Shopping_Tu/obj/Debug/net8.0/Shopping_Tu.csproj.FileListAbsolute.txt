@@ -1,0 +1,516 @@
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\appsettings.Development.json
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\appsettings.json
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.staticwebassets.runtime.json
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.staticwebassets.endpoints.json
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.exe
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.deps.json
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.runtimeconfig.json
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.pdb
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.AssemblyInfoInputs.cache
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.AssemblyInfo.cs
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.csproj.CoreCompileInputs.cache
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.MvcApplicationPartsAssemblyInfo.cache
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.RazorAssemblyInfo.cache
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.RazorAssemblyInfo.cs
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\scopedcss\bundle\Shopping_Tu.styles.css
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\scopedcss\projectbundle\Shopping_Tu.bundle.scp.css
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\staticwebassets.build.json
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\staticwebassets.development.json
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.Shopping_Tu.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.Shopping_Tu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.build.Shopping_Tu.props
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Shopping_Tu.props
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Shopping_Tu.props
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\refint\Shopping_Tu.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.pdb
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.genruntimeconfig.cache
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\ref\Shopping_Tu.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Azure.Core.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Azure.Identity.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Humanizer.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.ClientModel.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.CodeDom.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Text.Json.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.csproj.AssemblyReference.cache
+D:\MonHoc\Đồ án tốt nghiệp\Shopping_Tu\Shopping_Tu\obj\Debug\net8.0\Shopping.B0E5043C.Up2Date
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\appsettings.Development.json
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\appsettings.json
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.staticwebassets.endpoints.json
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.staticwebassets.runtime.json
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.exe
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.deps.json
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.runtimeconfig.json
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.pdb
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Azure.Core.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Azure.Identity.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Humanizer.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.ClientModel.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.CodeDom.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Text.Json.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.csproj.AssemblyReference.cache
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.AssemblyInfoInputs.cache
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.AssemblyInfo.cs
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.csproj.CoreCompileInputs.cache
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.MvcApplicationPartsAssemblyInfo.cache
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.RazorAssemblyInfo.cache
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.RazorAssemblyInfo.cs
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\scopedcss\bundle\Shopping_Tu.styles.css
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\scopedcss\projectbundle\Shopping_Tu.bundle.scp.css
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\staticwebassets.build.json
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\staticwebassets.development.json
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.Shopping_Tu.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.Shopping_Tu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.build.Shopping_Tu.props
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Shopping_Tu.props
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Shopping_Tu.props
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\Shopping.B0E5043C.Up2Date
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\refint\Shopping_Tu.dll
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.pdb
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.genruntimeconfig.cache
+D:\MonHoc\Đồ án tốt nghiệp\Đồ án tốt nghiệp\Shopping_Tu\obj\Debug\net8.0\ref\Shopping_Tu.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\appsettings.Development.json
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\appsettings.json
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.staticwebassets.endpoints.json
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.staticwebassets.runtime.json
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.exe
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.deps.json
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.runtimeconfig.json
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Shopping_Tu.pdb
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Azure.Core.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Azure.Identity.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Humanizer.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.ClientModel.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.CodeDom.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Memory.Data.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Text.Json.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.csproj.AssemblyReference.cache
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.AssemblyInfoInputs.cache
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.AssemblyInfo.cs
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.csproj.CoreCompileInputs.cache
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.MvcApplicationPartsAssemblyInfo.cache
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.RazorAssemblyInfo.cache
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.RazorAssemblyInfo.cs
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\scopedcss\bundle\Shopping_Tu.styles.css
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\scopedcss\projectbundle\Shopping_Tu.bundle.scp.css
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\staticwebassets.build.json
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\staticwebassets.development.json
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.Shopping_Tu.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.Shopping_Tu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.build.Shopping_Tu.props
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Shopping_Tu.props
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Shopping_Tu.props
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\staticwebassets.pack.json
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\Shopping.B0E5043C.Up2Date
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\refint\Shopping_Tu.dll
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.pdb
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.genruntimeconfig.cache
+D:\MonHoc\Đồ án tốt nghiệp_2025\Shopping_Tu\obj\Debug\net8.0\ref\Shopping_Tu.dll
