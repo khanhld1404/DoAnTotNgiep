@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\Shopping_Tu.csproj": {}
+    "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\Shopping_Tu.csproj": {}
   },
   "projects": {
-    "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\Shopping_Tu.csproj": {
+    "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\Shopping_Tu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\Shopping_Tu.csproj",
+        "projectUniqueName": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\Shopping_Tu.csproj",
         "projectName": "Shopping_Tu",
-        "projectPath": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\Shopping_Tu.csproj",
+        "projectPath": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\Shopping_Tu.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\obj\\",
+        "outputPath": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,6 +69,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.8, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [

@@ -3,7 +3,7 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "Shopping_Tu.nk8fdrg8xp.styles.css",
+      "Route": "Shopping_Tu.axwwd1gfmt.styles.css",
       "AssetFile": "Shopping_Tu.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1129"
+          "Value": "3418"
         },
         {
           "Name": "Content-Type",
@@ -25,21 +25,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI=\""
+          "Value": "\"UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 14:59:28 GMT"
+          "Value": "Thu, 14 Aug 2025 14:40:04 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nk8fdrg8xp"
+          "Value": "axwwd1gfmt"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI="
+          "Value": "sha256-UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw="
         },
         {
           "Name": "label",
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1129"
+          "Value": "3418"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +70,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI=\""
+          "Value": "\"UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 14:59:28 GMT"
+          "Value": "Thu, 14 Aug 2025 14:40:04 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI="
+          "Value": "sha256-UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw="
         }
       ]
     },

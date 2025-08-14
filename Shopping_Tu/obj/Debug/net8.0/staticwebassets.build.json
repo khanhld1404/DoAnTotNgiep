@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vKDTuAZTTAxX0Oet7z2gsdQVMf77h4zV541Qp2YLAI8=",
+  "Hash": "WiH+nepjf5iQUNuITrOHN3iOyfE9gSRnAW7EffK72jw=",
   "Source": "Shopping_Tu",
   "BasePath": "_content/Shopping_Tu",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Shopping_Tu\\wwwroot",
       "Source": "Shopping_Tu",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tu.styles.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tu.styles.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "Shopping_Tu#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -31,17 +31,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "nk8fdrg8xp",
-      "Integrity": "J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI=",
+      "Fingerprint": "axwwd1gfmt",
+      "Integrity": "UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tu.styles.css"
+      "OriginalItemSpec": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tu.styles.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tu.bundle.scp.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tu.bundle.scp.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "Shopping_Tu#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -52,17 +52,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "nk8fdrg8xp",
-      "Integrity": "J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI=",
+      "Fingerprint": "axwwd1gfmt",
+      "Integrity": "UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tu.bundle.scp.css"
+      "OriginalItemSpec": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tu.bundle.scp.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\animate.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\animate.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "css/animate#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "css/font-awesome.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\main.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\main.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "css/main#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\prettyPhoto.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\prettyPhoto.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "css/prettyPhoto#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\css\\prettyPhoto.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\price-range.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\price-range.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "css/price-range#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\css\\price-range.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\responsive.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\responsive.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "css/responsive#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\favicon.ico",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\favicon.ico",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\images\\1.jpg",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\1.jpg",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "images/1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1.jpg"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\images\\2.jpg",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\2.jpg",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "images/2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2.jpg"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\images\\gallery1.jpg",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\gallery1.jpg",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "images/gallery1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gallery1.jpg"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\contact.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\contact.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "js/contact#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\js\\contact.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\gmaps.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\gmaps.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "js/gmaps#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\js\\gmaps.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\html5shiv.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\html5shiv.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "js/html5shiv#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\js\\html5shiv.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\jquery.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\jquery.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "js/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\jquery.prettyPhoto.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "js/jquery.prettyPhoto#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.prettyPhoto.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\jquery.scrollUp.min.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "js/jquery.scrollUp.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\main.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\main.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "js/main#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\price-range.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\price-range.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "js/price-range#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\js\\price-range.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Shopping_Tu",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
       "BasePath": "_content/Shopping_Tu",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1679,7 +1679,7 @@
   "Endpoints": [
     {
       "Route": "css/animate.4n2duddgf0.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\animate.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\animate.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1724,7 +1724,7 @@
     },
     {
       "Route": "css/animate.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\animate.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\animate.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1761,7 +1761,7 @@
     },
     {
       "Route": "css/bootstrap.min.a03q467kau.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1806,7 +1806,7 @@
     },
     {
       "Route": "css/bootstrap.min.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1843,7 +1843,7 @@
     },
     {
       "Route": "css/font-awesome.min.3je3f2rw5a.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\font-awesome.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\font-awesome.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1888,7 +1888,7 @@
     },
     {
       "Route": "css/font-awesome.min.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\font-awesome.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\font-awesome.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1925,7 +1925,7 @@
     },
     {
       "Route": "css/main.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\main.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1962,7 +1962,7 @@
     },
     {
       "Route": "css/main.qtq4xdn8qs.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\main.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2007,7 +2007,7 @@
     },
     {
       "Route": "css/prettyPhoto.2al6ftd5ju.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\prettyPhoto.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\prettyPhoto.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2052,7 +2052,7 @@
     },
     {
       "Route": "css/prettyPhoto.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\prettyPhoto.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\prettyPhoto.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2089,7 +2089,7 @@
     },
     {
       "Route": "css/price-range.4iqjtdhhvf.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\price-range.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\price-range.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2134,7 +2134,7 @@
     },
     {
       "Route": "css/price-range.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\price-range.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\price-range.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2171,7 +2171,7 @@
     },
     {
       "Route": "css/responsive.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\responsive.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\responsive.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2208,7 +2208,7 @@
     },
     {
       "Route": "css/responsive.rpy24pqr5p.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\css\\responsive.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\responsive.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2253,7 +2253,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2298,7 +2298,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2335,7 +2335,7 @@
     },
     {
       "Route": "images/1.jpg",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\images\\1.jpg",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2372,7 +2372,7 @@
     },
     {
       "Route": "images/1.lsyxfknpdp.jpg",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\images\\1.jpg",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2417,7 +2417,7 @@
     },
     {
       "Route": "images/2.8o8bb01gyu.jpg",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\images\\2.jpg",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2462,7 +2462,7 @@
     },
     {
       "Route": "images/2.jpg",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\images\\2.jpg",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2499,7 +2499,7 @@
     },
     {
       "Route": "images/gallery1.90zyl5zv8k.jpg",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\images\\gallery1.jpg",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\gallery1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2544,7 +2544,7 @@
     },
     {
       "Route": "images/gallery1.jpg",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\images\\gallery1.jpg",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\gallery1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2581,7 +2581,7 @@
     },
     {
       "Route": "js/bootstrap.min.ckio6tdysc.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2626,7 +2626,7 @@
     },
     {
       "Route": "js/bootstrap.min.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2663,7 +2663,7 @@
     },
     {
       "Route": "js/contact.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\contact.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\contact.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2700,7 +2700,7 @@
     },
     {
       "Route": "js/contact.vjr9ham21n.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\contact.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\contact.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2745,7 +2745,7 @@
     },
     {
       "Route": "js/gmaps.db4y2vn6sl.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\gmaps.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\gmaps.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2790,7 +2790,7 @@
     },
     {
       "Route": "js/gmaps.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\gmaps.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\gmaps.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2827,7 +2827,7 @@
     },
     {
       "Route": "js/html5shiv.34ikutiyxq.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\html5shiv.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\html5shiv.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2872,7 +2872,7 @@
     },
     {
       "Route": "js/html5shiv.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\html5shiv.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\html5shiv.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2909,7 +2909,7 @@
     },
     {
       "Route": "js/jquery.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\jquery.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2946,7 +2946,7 @@
     },
     {
       "Route": "js/jquery.plnrga3sta.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\jquery.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2991,7 +2991,7 @@
     },
     {
       "Route": "js/jquery.prettyPhoto.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\jquery.prettyPhoto.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3028,7 +3028,7 @@
     },
     {
       "Route": "js/jquery.prettyPhoto.nvd1pggfq2.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\jquery.prettyPhoto.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3073,7 +3073,7 @@
     },
     {
       "Route": "js/jquery.scrollUp.min.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\jquery.scrollUp.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3110,7 +3110,7 @@
     },
     {
       "Route": "js/jquery.scrollUp.min.y2a4nngxpc.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\jquery.scrollUp.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3155,7 +3155,7 @@
     },
     {
       "Route": "js/main.59kgvyuv06.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\main.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3200,7 +3200,7 @@
     },
     {
       "Route": "js/main.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\main.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3237,7 +3237,7 @@
     },
     {
       "Route": "js/price-range.7wrb4rnl2v.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\price-range.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\price-range.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3282,7 +3282,7 @@
     },
     {
       "Route": "js/price-range.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\js\\price-range.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\price-range.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3319,7 +3319,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3356,7 +3356,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3401,7 +3401,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3438,7 +3438,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3483,7 +3483,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3520,7 +3520,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3565,7 +3565,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3602,7 +3602,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3647,7 +3647,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3684,7 +3684,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3729,7 +3729,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3766,7 +3766,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3811,7 +3811,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3848,7 +3848,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3893,7 +3893,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3930,7 +3930,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3975,7 +3975,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4020,7 +4020,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4057,7 +4057,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4094,7 +4094,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4139,7 +4139,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4176,7 +4176,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4221,7 +4221,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4258,7 +4258,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4303,7 +4303,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4340,7 +4340,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4385,7 +4385,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4422,7 +4422,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4459,7 +4459,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4496,7 +4496,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4541,7 +4541,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4586,7 +4586,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4631,7 +4631,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4676,7 +4676,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4713,7 +4713,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4758,7 +4758,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4795,7 +4795,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4832,7 +4832,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4869,7 +4869,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4914,7 +4914,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4959,7 +4959,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5004,7 +5004,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5041,7 +5041,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5086,7 +5086,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5123,7 +5123,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5160,7 +5160,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5197,7 +5197,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5242,7 +5242,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5287,7 +5287,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5324,7 +5324,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5369,7 +5369,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5406,7 +5406,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5451,7 +5451,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5488,7 +5488,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5525,7 +5525,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5570,7 +5570,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5615,7 +5615,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5652,7 +5652,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5697,7 +5697,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5734,7 +5734,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5771,7 +5771,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5816,7 +5816,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5853,7 +5853,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5898,7 +5898,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5943,7 +5943,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5980,7 +5980,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6025,7 +6025,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6062,7 +6062,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6107,7 +6107,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6152,7 +6152,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6189,7 +6189,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6234,7 +6234,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6271,7 +6271,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6308,7 +6308,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6353,7 +6353,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6390,7 +6390,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6435,7 +6435,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6472,7 +6472,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6509,7 +6509,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6554,7 +6554,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6599,7 +6599,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6636,7 +6636,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6681,7 +6681,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6718,7 +6718,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6755,7 +6755,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6792,7 +6792,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6837,7 +6837,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6882,7 +6882,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6927,7 +6927,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6964,7 +6964,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7009,7 +7009,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7054,7 +7054,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7091,7 +7091,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7136,7 +7136,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7181,7 +7181,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7218,7 +7218,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7255,7 +7255,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7300,7 +7300,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7337,7 +7337,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7382,7 +7382,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7419,7 +7419,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7464,7 +7464,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7501,7 +7501,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7538,7 +7538,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7583,7 +7583,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7620,7 +7620,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7665,7 +7665,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7702,7 +7702,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7747,7 +7747,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7792,7 +7792,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7829,7 +7829,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7874,7 +7874,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7911,7 +7911,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7956,7 +7956,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7992,8 +7992,8 @@
       ]
     },
     {
-      "Route": "Shopping_Tu.bundle.scp.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tu.bundle.scp.css",
+      "Route": "Shopping_Tu.axwwd1gfmt.bundle.scp.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tu.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8002,7 +8002,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1129"
+          "Value": "3418"
         },
         {
           "Name": "Content-Type",
@@ -8010,48 +8010,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI=\""
+          "Value": "\"UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 14:59:28 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI="
-        }
-      ]
-    },
-    {
-      "Route": "Shopping_Tu.nk8fdrg8xp.bundle.scp.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tu.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1129"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 14:59:28 GMT"
+          "Value": "Thu, 14 Aug 2025 14:40:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8061,7 +8024,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nk8fdrg8xp"
+          "Value": "axwwd1gfmt"
         },
         {
           "Name": "label",
@@ -8069,13 +8032,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI="
+          "Value": "sha256-UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw="
         }
       ]
     },
     {
-      "Route": "Shopping_Tu.nk8fdrg8xp.styles.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tu.styles.css",
+      "Route": "Shopping_Tu.axwwd1gfmt.styles.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tu.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8084,7 +8047,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1129"
+          "Value": "3418"
         },
         {
           "Name": "Content-Type",
@@ -8092,11 +8055,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI=\""
+          "Value": "\"UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 14:59:28 GMT"
+          "Value": "Thu, 14 Aug 2025 14:40:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8106,7 +8069,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "nk8fdrg8xp"
+          "Value": "axwwd1gfmt"
         },
         {
           "Name": "label",
@@ -8114,13 +8077,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI="
+          "Value": "sha256-UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw="
         }
       ]
     },
     {
-      "Route": "Shopping_Tu.styles.css",
-      "AssetFile": "D:\\MonHoc\\Đồ án tốt nghiệp_2025\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tu.styles.css",
+      "Route": "Shopping_Tu.bundle.scp.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tu.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8129,7 +8092,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1129"
+          "Value": "3418"
         },
         {
           "Name": "Content-Type",
@@ -8137,11 +8100,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI=\""
+          "Value": "\"UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 09 Aug 2025 14:59:28 GMT"
+          "Value": "Thu, 14 Aug 2025 14:40:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8151,7 +8114,44 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-J1L/1EWfGHo8ABdd3bZRmW7JLQ5/9VgmJ8NuL8VZ1NI="
+          "Value": "sha256-UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw="
+        }
+      ]
+    },
+    {
+      "Route": "Shopping_Tu.styles.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tu.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Aug 2025 14:40:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw="
         }
       ]
     }

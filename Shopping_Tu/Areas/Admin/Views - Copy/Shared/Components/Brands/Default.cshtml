@@ -1,0 +1,14 @@
+﻿@using Shopping_Tu.Models
+@model IEnumerable<BrandModel>
+@foreach (var item in Model)
+{
+
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			@if (item.Status != 0)
+			{
+				<h4 class="panel-title"><a asp-action="Index" asp-controller="Brand" asp-route-slug="@item.Slug">@item.Name</a></h4>
+			}
+		</div>
+	</div>
+}
