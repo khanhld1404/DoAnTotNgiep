@@ -688,5 +688,4 @@ D:\MonHoc\Do_An_Tot_Ngiep_LuongDuyKhanh\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu
 D:\MonHoc\Do_An_Tot_Ngiep_LuongDuyKhanh\Shopping_Tu\obj\Debug\net8.0\Shopping_Tu.genruntimeconfig.cache
 D:\MonHoc\Do_An_Tot_Ngiep_LuongDuyKhanh\Shopping_Tu\obj\Debug\net8.0\ref\Shopping_Tu.dll
 D:\MonHoc\Do_An_Tot_Ngiep_LuongDuyKhanh\Shopping_Tu\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\MonHoc\Do_An_Tot_Ngiep_LuongDuyKhanh\Shopping_Tu\obj\Debug\net8.0\scopedcss\Areas\Admin\Views - Copy\Shared\_Layout.cshtml.rz.scp.css
 D:\MonHoc\Do_An_Tot_Ngiep_LuongDuyKhanh\Shopping_Tu\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css

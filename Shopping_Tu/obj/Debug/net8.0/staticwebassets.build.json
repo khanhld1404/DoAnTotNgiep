@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WiH+nepjf5iQUNuITrOHN3iOyfE9gSRnAW7EffK72jw=",
+  "Hash": "9lv52RINYok2/j7/W2VixNjnTUT0ES59riBGh8xcNhM=",
   "Source": "Shopping_Tu",
   "BasePath": "_content/Shopping_Tu",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "axwwd1gfmt",
-      "Integrity": "UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=",
+      "Fingerprint": "cl7lmvm5v9",
+      "Integrity": "UJQdVr+8UdOmtUiMqAGjk5keAUgHtrZbJGirhEIDg9A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tu.styles.css"
@@ -52,11 +52,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "axwwd1gfmt",
-      "Integrity": "UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=",
+      "Fingerprint": "cl7lmvm5v9",
+      "Integrity": "UJQdVr+8UdOmtUiMqAGjk5keAUgHtrZbJGirhEIDg9A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tu.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\backend\\js\\site.js",
+      "SourceId": "Shopping_Tu",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
+      "BasePath": "_content/Shopping_Tu",
+      "RelativePath": "backend/js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8rvxf80iyp",
+      "Integrity": "/NErHl6ZBcTcH7Ryvh+LMse94WRd4Kucc2SAIk/CqX0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\backend\\js\\site.js"
     },
     {
       "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\animate.css",
@@ -288,6 +309,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\gallery1.jpg"
+    },
+    {
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\image1.png",
+      "SourceId": "Shopping_Tu",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
+      "BasePath": "_content/Shopping_Tu",
+      "RelativePath": "images/image1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ae31bw8h7c",
+      "Integrity": "jg1/pqRmzlSaL+1Y++MVNdQlAqo6+SfY+FqK+N/KAig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image1.png"
+    },
+    {
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\image2.png",
+      "SourceId": "Shopping_Tu",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
+      "BasePath": "_content/Shopping_Tu",
+      "RelativePath": "images/image2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gt0qj19zg2",
+      "Integrity": "pG3G53V8WYseXNqX33GStsh2kg6qy/A/HZ+oCO9CAok=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image2.png"
+    },
+    {
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\image3.png",
+      "SourceId": "Shopping_Tu",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
+      "BasePath": "_content/Shopping_Tu",
+      "RelativePath": "images/image3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1888x5av1j",
+      "Integrity": "X89Z0o9ZbWPPBFeJUWpAelydaSiCXo6DWINiCk7040A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image3.png"
     },
     {
       "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\bootstrap.min.js",
@@ -1674,9 +1758,154 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\one.png",
+      "SourceId": "Shopping_Tu",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
+      "BasePath": "_content/Shopping_Tu",
+      "RelativePath": "media/products/one#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p821nxieet",
+      "Integrity": "mfwVsOU9Kid7XYpK22tfGE1m7N7283YdU0p4ev8StiA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\products\\one.png"
+    },
+    {
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\three.png",
+      "SourceId": "Shopping_Tu",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
+      "BasePath": "_content/Shopping_Tu",
+      "RelativePath": "media/products/three#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k5ne88y8zo",
+      "Integrity": "uLTRF3FJIUIqSPX4pvo+b+j4TQijYYZo/F3JNXLTK3A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\products\\three.png"
+    },
+    {
+      "Identity": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\two.png",
+      "SourceId": "Shopping_Tu",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\",
+      "BasePath": "_content/Shopping_Tu",
+      "RelativePath": "media/products/two#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6diqz8qv4t",
+      "Integrity": "emJSJ5QS0VF8FTlupyik/QGl/g70K5r1tpl0vBbnBE4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\products\\two.png"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "backend/js/site.8rvxf80iyp.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\backend\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/NErHl6ZBcTcH7Ryvh+LMse94WRd4Kucc2SAIk/CqX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Dec 2024 19:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8rvxf80iyp"
+        },
+        {
+          "Name": "label",
+          "Value": "backend/js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/NErHl6ZBcTcH7Ryvh+LMse94WRd4Kucc2SAIk/CqX0="
+        }
+      ]
+    },
+    {
+      "Route": "backend/js/site.js",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\backend\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/NErHl6ZBcTcH7Ryvh+LMse94WRd4Kucc2SAIk/CqX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Dec 2024 19:59:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/NErHl6ZBcTcH7Ryvh+LMse94WRd4Kucc2SAIk/CqX0="
+        }
+      ]
+    },
     {
       "Route": "css/animate.4n2duddgf0.css",
       "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\animate.css",
@@ -2576,6 +2805,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-uT5J7GgMbI0GcPgY4FQFplJugU9EHl1yDgAfgKCWCkM="
+        }
+      ]
+    },
+    {
+      "Route": "images/image1.ae31bw8h7c.png",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\image1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jg1/pqRmzlSaL+1Y++MVNdQlAqo6+SfY+FqK+N/KAig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 05:41:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ae31bw8h7c"
+        },
+        {
+          "Name": "label",
+          "Value": "images/image1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jg1/pqRmzlSaL+1Y++MVNdQlAqo6+SfY+FqK+N/KAig="
+        }
+      ]
+    },
+    {
+      "Route": "images/image1.png",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\image1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jg1/pqRmzlSaL+1Y++MVNdQlAqo6+SfY+FqK+N/KAig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 05:41:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jg1/pqRmzlSaL+1Y++MVNdQlAqo6+SfY+FqK+N/KAig="
+        }
+      ]
+    },
+    {
+      "Route": "images/image2.gt0qj19zg2.png",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\image2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3G53V8WYseXNqX33GStsh2kg6qy/A/HZ+oCO9CAok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 05:43:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gt0qj19zg2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/image2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3G53V8WYseXNqX33GStsh2kg6qy/A/HZ+oCO9CAok="
+        }
+      ]
+    },
+    {
+      "Route": "images/image2.png",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\image2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pG3G53V8WYseXNqX33GStsh2kg6qy/A/HZ+oCO9CAok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 05:43:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pG3G53V8WYseXNqX33GStsh2kg6qy/A/HZ+oCO9CAok="
+        }
+      ]
+    },
+    {
+      "Route": "images/image3.1888x5av1j.png",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\image3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X89Z0o9ZbWPPBFeJUWpAelydaSiCXo6DWINiCk7040A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 05:44:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1888x5av1j"
+        },
+        {
+          "Name": "label",
+          "Value": "images/image3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X89Z0o9ZbWPPBFeJUWpAelydaSiCXo6DWINiCk7040A="
+        }
+      ]
+    },
+    {
+      "Route": "images/image3.png",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\image3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "139201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X89Z0o9ZbWPPBFeJUWpAelydaSiCXo6DWINiCk7040A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 05:44:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X89Z0o9ZbWPPBFeJUWpAelydaSiCXo6DWINiCk7040A="
         }
       ]
     },
@@ -7992,8 +8467,8 @@
       ]
     },
     {
-      "Route": "Shopping_Tu.axwwd1gfmt.bundle.scp.css",
-      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tu.bundle.scp.css",
+      "Route": "media/products/one.p821nxieet.png",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\one.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8002,19 +8477,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3418"
+          "Value": "13159"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=\""
+          "Value": "\"mfwVsOU9Kid7XYpK22tfGE1m7N7283YdU0p4ev8StiA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Aug 2025 14:40:04 GMT"
+          "Value": "Thu, 14 Aug 2025 16:02:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8024,21 +8499,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "axwwd1gfmt"
+          "Value": "p821nxieet"
         },
         {
           "Name": "label",
-          "Value": "Shopping_Tu.bundle.scp.css"
+          "Value": "media/products/one.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw="
+          "Value": "sha256-mfwVsOU9Kid7XYpK22tfGE1m7N7283YdU0p4ev8StiA="
         }
       ]
     },
     {
-      "Route": "Shopping_Tu.axwwd1gfmt.styles.css",
-      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tu.styles.css",
+      "Route": "media/products/one.png",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\one.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8047,19 +8522,56 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3418"
+          "Value": "13159"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=\""
+          "Value": "\"mfwVsOU9Kid7XYpK22tfGE1m7N7283YdU0p4ev8StiA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Aug 2025 14:40:04 GMT"
+          "Value": "Thu, 14 Aug 2025 16:02:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfwVsOU9Kid7XYpK22tfGE1m7N7283YdU0p4ev8StiA="
+        }
+      ]
+    },
+    {
+      "Route": "media/products/three.k5ne88y8zo.png",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\three.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uLTRF3FJIUIqSPX4pvo+b+j4TQijYYZo/F3JNXLTK3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 05:41:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8069,15 +8581,134 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "axwwd1gfmt"
+          "Value": "k5ne88y8zo"
         },
         {
           "Name": "label",
-          "Value": "Shopping_Tu.styles.css"
+          "Value": "media/products/three.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw="
+          "Value": "sha256-uLTRF3FJIUIqSPX4pvo+b+j4TQijYYZo/F3JNXLTK3A="
+        }
+      ]
+    },
+    {
+      "Route": "media/products/three.png",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\three.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16656"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uLTRF3FJIUIqSPX4pvo+b+j4TQijYYZo/F3JNXLTK3A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 05:41:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uLTRF3FJIUIqSPX4pvo+b+j4TQijYYZo/F3JNXLTK3A="
+        }
+      ]
+    },
+    {
+      "Route": "media/products/two.6diqz8qv4t.png",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\two.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"emJSJ5QS0VF8FTlupyik/QGl/g70K5r1tpl0vBbnBE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 05:41:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6diqz8qv4t"
+        },
+        {
+          "Name": "label",
+          "Value": "media/products/two.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-emJSJ5QS0VF8FTlupyik/QGl/g70K5r1tpl0vBbnBE4="
+        }
+      ]
+    },
+    {
+      "Route": "media/products/two.png",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\two.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19799"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"emJSJ5QS0VF8FTlupyik/QGl/g70K5r1tpl0vBbnBE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 05:41:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-emJSJ5QS0VF8FTlupyik/QGl/g70K5r1tpl0vBbnBE4="
         }
       ]
     },
@@ -8092,7 +8723,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3418"
+          "Value": "2270"
         },
         {
           "Name": "Content-Type",
@@ -8100,11 +8731,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=\""
+          "Value": "\"UJQdVr+8UdOmtUiMqAGjk5keAUgHtrZbJGirhEIDg9A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Aug 2025 14:40:04 GMT"
+          "Value": "Sat, 16 Aug 2025 05:25:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8114,7 +8745,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw="
+          "Value": "sha256-UJQdVr+8UdOmtUiMqAGjk5keAUgHtrZbJGirhEIDg9A="
+        }
+      ]
+    },
+    {
+      "Route": "Shopping_Tu.cl7lmvm5v9.bundle.scp.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tu.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UJQdVr+8UdOmtUiMqAGjk5keAUgHtrZbJGirhEIDg9A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 05:25:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cl7lmvm5v9"
+        },
+        {
+          "Name": "label",
+          "Value": "Shopping_Tu.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UJQdVr+8UdOmtUiMqAGjk5keAUgHtrZbJGirhEIDg9A="
+        }
+      ]
+    },
+    {
+      "Route": "Shopping_Tu.cl7lmvm5v9.styles.css",
+      "AssetFile": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Shopping_Tu.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UJQdVr+8UdOmtUiMqAGjk5keAUgHtrZbJGirhEIDg9A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 16 Aug 2025 05:25:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cl7lmvm5v9"
+        },
+        {
+          "Name": "label",
+          "Value": "Shopping_Tu.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UJQdVr+8UdOmtUiMqAGjk5keAUgHtrZbJGirhEIDg9A="
         }
       ]
     },
@@ -8129,7 +8850,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3418"
+          "Value": "2270"
         },
         {
           "Name": "Content-Type",
@@ -8137,11 +8858,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw=\""
+          "Value": "\"UJQdVr+8UdOmtUiMqAGjk5keAUgHtrZbJGirhEIDg9A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 14 Aug 2025 14:40:04 GMT"
+          "Value": "Sat, 16 Aug 2025 05:25:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8151,7 +8872,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UgDAv0+tNRCoj2DMWDdpdAFmHuxmkAE4OdsvWNn4wYw="
+          "Value": "sha256-UJQdVr+8UdOmtUiMqAGjk5keAUgHtrZbJGirhEIDg9A="
         }
       ]
     }

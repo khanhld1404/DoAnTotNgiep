@@ -2,7 +2,11 @@
   "Files": [
     {
       "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shopping_Tu.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Shopping_Tu.axwwd1gfmt.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Shopping_Tu.cl7lmvm5v9.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
     },
     {
       "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\css\\animate.css",
@@ -47,6 +51,18 @@
     {
       "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\gallery1.jpg",
       "PackagePath": "staticwebassets\\images\\gallery1.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\image1.png",
+      "PackagePath": "staticwebassets\\images\\image1.png"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\image2.png",
+      "PackagePath": "staticwebassets\\images\\image2.png"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\image3.png",
+      "PackagePath": "staticwebassets\\images\\image3.png"
     },
     {
       "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\bootstrap.min.js",
@@ -311,6 +327,18 @@
     {
       "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\one.png",
+      "PackagePath": "staticwebassets\\media\\products\\one.png"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\three.png",
+      "PackagePath": "staticwebassets\\media\\products\\three.png"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\two.png",
+      "PackagePath": "staticwebassets\\media\\products\\two.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shopping_Tu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

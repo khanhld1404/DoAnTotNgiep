@@ -1,3 +1,4 @@
+wwwroot\backend\js\site.js
 wwwroot\css\animate.css
 wwwroot\css\bootstrap.min.css
 wwwroot\css\font-awesome.min.css
@@ -9,6 +10,9 @@ wwwroot\favicon.ico
 wwwroot\images\1.jpg
 wwwroot\images\2.jpg
 wwwroot\images\gallery1.jpg
+wwwroot\images\image1.png
+wwwroot\images\image2.png
+wwwroot\images\image3.png
 wwwroot\js\bootstrap.min.js
 wwwroot\js\contact.js
 wwwroot\js\gmaps.js
@@ -75,3 +79,6 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\media\products\one.png
+wwwroot\media\products\three.png
+wwwroot\media\products\two.png
