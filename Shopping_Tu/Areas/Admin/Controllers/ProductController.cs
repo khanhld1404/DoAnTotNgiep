@@ -7,6 +7,7 @@ using Shopping_Tu.Repository;
 namespace Shopping_Tu.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    //mk : k123
     public class ProductController : Controller
     {
         private readonly DataContext _dataContext;
@@ -18,7 +19,6 @@ namespace Shopping_Tu.Areas.Admin.Controllers
         }
         public async Task<IActionResult> Index()
         {
-
             return View(await _dataContext.Products.OrderByDescending(p => p.Id).Include(p => p.Category).Include(p => p.Brand).ToListAsync());
         }
 
@@ -131,6 +131,8 @@ namespace Shopping_Tu.Areas.Admin.Controllers
                 existed_product.Slug = product.Slug;
                 existed_product.Description = product.Description;
                 existed_product.Price = product.Price;
+                existed_product.Quantity = product.Quantity;
+                existed_product.Size = product.Size;
                 existed_product.CategoryId = product.CategoryId;
                 existed_product.BrandId = product.BrandId;
 

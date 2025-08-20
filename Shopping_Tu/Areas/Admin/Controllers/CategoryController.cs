@@ -15,7 +15,6 @@ namespace Shopping_Tu.Areas.Admin.Controllers
         }
         public async Task<IActionResult> Index()
         {
-
             return View(await _dataContext.Categories.OrderByDescending(p => p.Id).ToListAsync());
         }
 

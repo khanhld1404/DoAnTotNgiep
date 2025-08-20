@@ -1,0 +1,46 @@
+﻿@using Shopping_Tutorial.Models
+@model IEnumerable<OrderModel>
+@{
+    ViewData["Title"] = "Lịch sử đặt hàng ";
+}
+<h2>Lịch sử đặt hàng </h2>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Mã đơn</th>
+            <th scope="col">Người đặt</th>
+            <th scope="col">Ngày đặt đơn</th>
+            <th scope="col">Trạng thái đơn</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.OrderCode</th>
+                <td>@item.UserName</td>
+                <td>@item.CreatedDate</td>
+                <td>
+                    @if (item.Status == 1)
+                    {
+                        <span class="text text-success">Đơn hàng mới</span>
+                    }
+                    else if (item.Status == 0)
+                    {
+                        <span class="text text-warning">Đơn hàng đã xử lý</span>
+                    }
+                    else
+                    {
+                        <span class="text text-danger">Đã huỷ</span>
+                    }
+                </td>
+                <td>
+                    @if (item.Status != 2)
+                    {
+                        <a asp-action="CancelOrder" class="btn btn-danger btn-sm" asp-controller="Account" asp-route-ordercode="@item.OrderCode">Huỷ đơn</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

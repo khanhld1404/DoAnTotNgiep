@@ -4,7 +4,7 @@
 }
 <h2>Danh sách sản phẩm</h2>
 <a asp-action ="Create" class="btn btn-info btn-sm" asp-controller="Product">Thêm sản phẩm</a>
-<table class="table">
+<table class="table" id="myTable">
     <thead class="thead-dark">
         <tr>
             <th scope="col">Mã sản phẩm</th>
@@ -12,6 +12,8 @@
             <th scope="col">Tên sản phẩm</th>
             <th scope="col">Mô tả sản phẩm</th>
             <th scope="col">Giá sản phẩm</th>
+            <th scope="col">Số lượng</th>
+            <th scope="col">Kích cỡ</th>
             <th scope="col">Danh mục sản phẩm</th>
             <th scope="col">Thương hiệu sản phẩm</th>
             <th scope="col">Chức năng</th>
@@ -26,6 +28,8 @@
                     <td>@item.Name</td>
                     <td>@item.Description</td>
                     <td>@item.Price</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Size</td>
                     <td>@item.Category.Name</td>
                     <td>@item.Brand.Name</td>
                     <td>

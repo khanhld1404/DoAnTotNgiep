@@ -64,14 +64,20 @@ namespace Shopping_Tu.Controllers
             {
                 HttpContext.Session.SetJson("Cart", cart);
             }
-            TempData["success"] = "Giảm số lượng sản phẩm thành công!";
+            //TempData["success"] = "Giảm số lượng sản phẩm thành công!";
             return RedirectToAction("Index");
         }
 
         public async Task<IActionResult> Increase(int Id)
         {
+            ProductModel product = await _dataContext.Products.FindAsync(Id);
             List<CartItemModel> cart = HttpContext.Session.GetJson<List<CartItemModel>>("Cart");
             CartItemModel cartItem = cart.Where(c => c.ProductId == Id).FirstOrDefault();
+            if(cartItem.Quantity >= product.Quantity)
+            {
+                TempData["error"] = "Không đủ số lượng sản phẩm!";
+                return RedirectToAction("Index","Cart");
+            }
             if (cartItem.Quantity >= 1)
             {
                 ++cartItem.Quantity;
@@ -84,7 +90,7 @@ namespace Shopping_Tu.Controllers
             {
                 HttpContext.Session.SetJson("Cart", cart);
             }
-            TempData["success"] = "Tăng số lượng sản phẩm thành công!";
+            //TempData["success"] = "Tăng số lượng sản phẩm thành công!";
             return RedirectToAction("Index");
         }
 

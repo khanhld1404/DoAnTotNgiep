@@ -23,8 +23,8 @@
 						<a class="btn btn-default add-to-cart" asp-action="Add" asp-controller="Cart" asp-route-Id="@Model.Id"><i class="fa fa-shopping-cart"></i>Thêm giỏ hàng</a>
 					</span>
 					<p><b>Mô tả:</b> @Model.Description</p>
-					<p><b>Sự sẵn có:</b> Trong kho</p>
-					<p><b>Điều kiện:</b> Mới</p>
+					<p><b>Số lượng:</b> @Model.Quantity</p>
+					<p><b>Kích cỡ:</b> @Model.Size</p>
 					<p><b>Thương hiệu:</b> @Model.Brand.Name</p>
 					<p><b>Danh mục:</b> @Model.Category.Name</p>
 					<a href=""><img src="~/images/share.png" class="share img-responsive" alt="" /></a>

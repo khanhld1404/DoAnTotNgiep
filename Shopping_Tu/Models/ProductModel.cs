@@ -22,6 +22,11 @@ namespace Shopping_Tu.Models
         [Column(TypeName = "decimal(8,2)")]
         public decimal Price { get; set; }
 
+        [Required, Range(1, int.MaxValue, ErrorMessage = "Nhap so luong cua san pham")]
+        public int Quantity {  get; set; }
+        [Required, MinLength(1, ErrorMessage = "Chon size cua san pham")]
+        public string Size {  get; set; }
+
         [Required, Range(1, int.MaxValue, ErrorMessage = "Chon mot thuong hieu")]
         public int BrandId { get; set; }
 

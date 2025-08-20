@@ -1,0 +1,79 @@
+﻿@using Shopping_Tutorial.Models
+@model IEnumerable<OrderDetails>
+@{
+    ViewData["Title"] = "Chi tiết đơn hàng";
+    decimal total = 0;
+    decimal subtotal = 0;
+}
+
+<h2>Danh sách đơn hàng</h2>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Mã đơn</th>
+            <th scope="col">Người đặt</th>
+            <th scope="col">Mã sản phẩm</th>
+            <th scope="col">Giá tiền</th>
+            <th scope="col">Số lượng</th>
+            <th scope="col">Thành tiền</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            subtotal = item.Quantity * item.Price;
+            total += subtotal;
+            <tr>
+                <input type="hidden" asp-for="@item.OrderCode" class="getId" />
+                <th scope="row">@item.OrderCode</th>
+                <td>@item.UserName</td>
+                <td>@item.ProductId</td>
+                <td>@item.Price</td>
+                <td>@item.Quantity</td>
+                <td>@subtotal.ToString()</td>
+            </tr>
+        }
+        <tr>
+            <th colspan="5">Tổng tiền :</th>
+            <td>@total.ToString()</td>
+            <td>
+                @if (@ViewBag.Status != 2)
+                {
+                    <select class="form-control select-update-order">
+                        <option value="1">Đơn hàng mới</option>
+                        <option value="0">Đã xử lý</option>
+                    </select>
+                }
+
+            </td>
+        </tr>
+    </tbody>
+</table>
+<a class="btn btn-info" asp-action="Index">Quay lại</a>
+@section Scripts {
+    <script>
+        $(document).ready(function(){
+            $('.select-update-order').change(function(){
+                var status = $(this).val();
+                var ordercode = $('.getId').val();
+
+                $.ajax({
+                    type: "POST",
+                    url: "@Url.Action("UpdateOrder","Order")", // Kiểm tra đường dẫn action
+                    data: {status: status, ordercode: ordercode},
+                    success: function(result){
+                        if(result.success){
+                            Swal.fire("Cập nhật đơn hàng thành công");
+                        } else {
+                            console.log("Update failed: " + result.message);
+                        }
+                    },
+                    error: function (req, status, error){
+                        console.log("Bị lỗi:", error);
+                    }
+                }); // Đóng ajax đúng vị trí
+            });
+        });
+    </script>
+}
+
