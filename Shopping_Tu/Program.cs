@@ -8,8 +8,12 @@ var builder = WebApplication.CreateBuilder(args);
 //Connection db
 builder.Services.AddDbContext<DataContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration["ConnectionStrings:ConnectedDb"]);
+    options.UseSqlServer(
+        builder.Configuration["ConnectionStrings:ConnectedDb"],
+        sqlOptions => sqlOptions.CommandTimeout(120) // 120 giây
+    );
 });
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDistributedMemoryCache();

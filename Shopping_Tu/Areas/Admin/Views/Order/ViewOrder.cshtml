@@ -13,6 +13,7 @@
             <th scope="col">Mã đơn</th>
             <th scope="col">Người đặt</th>
             <th scope="col">Mã sản phẩm</th>
+            <th scope="col">Tên sản phẩm</th>
             <th scope="col">Giá tiền</th>
             <th scope="col">Số lượng</th>
             <th scope="col">Thành tiền</th>
@@ -28,6 +29,7 @@
                 <th scope="row">@item.OrderCode</th>
                 <td>@item.UserName</td>
                 <td>@item.ProductId</td>
+                <td>@item.ProductName</td>
                 <td>@item.Price</td>
                 <td>@item.Quantity</td>
                 <td>@subtotal.ToString()</td>

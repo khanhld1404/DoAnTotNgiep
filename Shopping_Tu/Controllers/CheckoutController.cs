@@ -69,6 +69,7 @@ namespace Shopping_Tu.Controllers
                     UserName = userEmail,
                     OrderCode = orderCode,
                     ProductId = cart.ProductId,
+                    ProductName = cart.ProductName,
                     Price = cart.Price,
                     Quantity = cart.Quantity
                 };

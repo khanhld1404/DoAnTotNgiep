@@ -34,7 +34,7 @@
 
 								</td>
 								<td class="cart_price">
-									<p>@item.Price</p>
+									<p>@item.Price.ToString("0.##") đ</p>
 								</td>
 								<td class="cart_quantity">
 
@@ -44,7 +44,7 @@
 
 								</td>
 								<td class="cart_total">
-									<p class="cart_total_price">@Model.CartItems.Where(x => x.ProductId == item.ProductId).Sum(x => x.Quantity * x.Price).ToString()</p>
+									<p class="cart_total_price">@Model.CartItems.Where(x => x.ProductId == item.ProductId).Sum(x => x.Quantity * x.Price).ToString("0.##") đ</p>
 								</td>
 								<td class="cart_quantity">
 									<a class="btn btn-warning btn-sm" asp-controller="Cart" asp-action="Remove" asp-route-id="@item.ProductId"> Xoá </a>
@@ -53,7 +53,7 @@
 						}
 						<tr rowspan="5">
 							<td colspan="5">
-								Grand Total : <p class="cart_total_price"> @Model.GrandTotal.ToString() </p>
+								Grand Total : <p class="cart_total_price"> @Model.GrandTotal.ToString("0.##") đ</p>
 							</td>
 							<td>
 								<a class="btn btn-danger" asp-controller="Cart" asp-action="Clear"> Xoá hết </a>

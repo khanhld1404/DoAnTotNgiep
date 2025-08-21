@@ -24,8 +24,9 @@ namespace Shopping_Tu.Models
 
         [Required, Range(1, int.MaxValue, ErrorMessage = "Nhap so luong cua san pham")]
         public int Quantity {  get; set; }
-        [Required, MinLength(1, ErrorMessage = "Chon size cua san pham")]
-        public string Size {  get; set; }
+
+        [Required, MinLength(4, ErrorMessage = "Nhap size San Pham")]
+        public string Size { get; set; }
 
         [Required, Range(1, int.MaxValue, ErrorMessage = "Chon mot thuong hieu")]
         public int BrandId { get; set; }
@@ -38,5 +39,6 @@ namespace Shopping_Tu.Models
         [NotMapped]
         [FileExtension]
         public IFormFile? ImageUpload { get; set; }
+
     }
 }
