@@ -1,5 +1,38 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿<div class="bg-white w-75">
+    <h1 class="text-center">Thông tin thanh toán</h1>
+    <div class=" d-flex justify-content-center">
+        <div class=" d-flex justify-content-center ">
+            <div>
+                <h3 class="mb-3">Vui lòng nhập mã giao dịch tại mục nội dung chuyển khoản.</h3>
+                <div class="thanhtoan mt-5 " style="padding-left: 300px;">
+
+                    <img src="~/images/qr.png" alt="">
+                    <h3 class="mt-3 ">Ngân hàng: MB Bank</h3>
+                    <h3 class="mt-3 ">Chủ tài khoản: Lương Duy Khánh</h3>
+                    <h3 class="mt-3 ">Số tài khoản: 0766465997</h3>
+
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class=" d-flex justify-content-center ">
+        <div class="bg-white w-75 d-flex justify-content-center">
+            <div>
+                <p class="text-danger">
+                    Sau khi chuyển khoản thành công, quý khách vui lòng kích vào nút "Xác nhận thanh toán". Nhân viên của
+                    công ty sẽ xử lý đơn hàng trong vòng 3 phút. Nếu sau 3 phút đơn hàng chưa được xử lý vui lòng liên hệ: 0342344238
+                    để được hỗ trợ. Xin trân trọng cảm ơn quý khách!
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class=" d-flex justify-content-center " style="height : 150px;padding-left : 500px;padding-top:50px">
+        <div class="d-flex justify-content-center bg-white w-75">
+            <a class="btn btn-warning" asp-controller="Checkout" asp-action="Checkout">Xác nhận thanh toán </a>
+        </div>
+    </div>

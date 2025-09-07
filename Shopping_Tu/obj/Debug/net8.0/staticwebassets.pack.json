@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets\\images\\image3.png"
     },
     {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\images\\qr.png",
+      "PackagePath": "staticwebassets\\images\\qr.png"
+    },
+    {
       "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
@@ -329,16 +333,84 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\one.png",
-      "PackagePath": "staticwebassets\\media\\products\\one.png"
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\1.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\2.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\4.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture10.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture10.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture11.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture11.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture12.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture12.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture13.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture13.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture14.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture14.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture15.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture15.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture16.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture16.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture17.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture17.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture18.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture18.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture19.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture19.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture2.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture3.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture6.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture6.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture7.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture7.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture8.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture8.jpg"
+    },
+    {
+      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\Picture9.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\Picture9.jpg"
     },
     {
       "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\three.png",
       "PackagePath": "staticwebassets\\media\\products\\three.png"
-    },
-    {
-      "Id": "D:\\MonHoc\\Do_An_Tot_Ngiep_LuongDuyKhanh\\Shopping_Tu\\wwwroot\\media\\products\\two.png",
-      "PackagePath": "staticwebassets\\media\\products\\two.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shopping_Tu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
